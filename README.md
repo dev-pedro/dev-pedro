@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width: 100%;">
 
 Pedro Henrique, amante do conhecimento e entusiasta por programação.
-Buscando novos conhecimentos na área da programação.
+Sempre em busca de conhecimento.
 
 🌱 Linguagens: HTML - CSS - JavaScript - Frutter - Dart.
 
