@@ -6,9 +6,9 @@ Pedro Henrique, amante do conhecimento e entusiasta por programação.
 Sempre em busca de crescimento.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
 
 
-🌱 Linguagens: HTML - CSS - JavaScript - Frutter - Dart.
+🌱 Linguagens: HTML | CSS | JavaScript | Java
 
-🔭 Ferramentas: Git - VSCode
+🔭 Ferramentas: Git/GitHub | VSCode
 
 
 <div>
