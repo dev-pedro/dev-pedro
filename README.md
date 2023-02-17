@@ -1,8 +1,8 @@
-# are-you-fine ? Hello World ☀️ : tryAgain 
+# it'sAllOk ? Hello World ☀️ : tryAgain 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width: 100%;">
 
-Pedro Henrique, amante do conhecimento e entusiasta por programação.
+Pedro Henrique, amante do conhecimento e estudante de programação.
 Sempre em busca de crescimento.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
 
 
