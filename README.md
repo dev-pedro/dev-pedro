@@ -1,6 +1,6 @@
 # it's All Ok ? Hello World ☀️ : Try Again
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador" style="max-width: 100%;">
 
 Pedro Henrique, amante do conhecimento e estudante de programação.
 Sempre em busca de crescimento.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
@@ -19,6 +19,8 @@ Sempre em busca de crescimento.![growth](https://user-images.githubusercontent.c
 </div>
 
 ![snake gif](https://github.com/dev-pedro/dev-pedro/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **dev-pedro/dev-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
