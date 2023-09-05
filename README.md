@@ -2,21 +2,17 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador" style="max-width: 100%;">
 
-Pedro Henrique, amante do conhecimento e estudante de programação.
-Sempre em busca de crescimento.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
+Olá, meu nome é Pedro sou programador, sempre em busca de novos desafios.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
 
 
-🌱 Linguagens: HTML | CSS | JavaScript | Java
+🌱 HTML | CSS | JavaScript | React
 
-🔭 Ferramentas: Git/GitHub | VSCode
+🔭 Ferramentas: Git/GitHub | VSCode | NodeJs
+
+###### Entre em contato:
+[E-mail](mailto:dev.pedro.rjas@gmail.com) | [Linkedin](https://www.linkedin.com/in/pedro-henrique-programador/)
 
 
-<div>
-  <p>📫 Caso queira entrar em contato:</p>
-  <p>✉️ dev.pedro.rjas@gmail.com</p>
-  <a href="https://www.linkedin.com/in/pedro-henrique-rjas/" alt="Linkedin" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/6a3398165e946e1df2dc47dfa1aa06b0a12548975ea7ff58625578d7c5b4aa22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7275692d73696c76612d732f" data-canonical-src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pedro-henrique-rjas/" style="max-width: 100%;"></a>
-</div>
 
 
 <!-- dcd-->
