@@ -1,6 +1,10 @@
 # !Ok ? Try Again : Hello World ☀️
 
-<img title="" src="./images/cover.svg" alt="Computador" width="350" align="right" style="max-width: 100%;">
+<picture>
+  <source width="350" media="(prefers-color-scheme: dark)" srcset="./images/cover-dark.svg">
+  <source width="350" media="(prefers-color-scheme: light)" srcset="./images/cover.svg">
+  <img title="" src="./images/cover.svg" alt="cover" width="350" align="right" style="max-width: 100%;">
+</picture>
 
 Olá, meu nome é Pedro sou programador, sempre em busca de novos desafios.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
 
