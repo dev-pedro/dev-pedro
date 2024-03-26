@@ -14,7 +14,7 @@ Olá, meu nome é Pedro sou programador, sempre em busca de novos desafios.![gro
 
 ###### Entre em contato:
 
-[E-mail](mailto:dev.pedro.rjas@gmail.com) | [Linkedin](https://www.linkedin.com/in/pedro-henrique-programador/)
+[E-mail](mailto:phenrique.coder@gmail.com) | [Linkedin](https://www.linkedin.com/in/pedro-henrique-programador/)
 
 <!-- dcd-->
 
