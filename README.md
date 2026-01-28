@@ -6,11 +6,9 @@
   <img title="" src="./images/cover.svg" alt="cover" width="350" align="right" style="max-width: 100%;">
 </picture>
 
-Olá, meu nome é Pedro sou programador, sempre em busca de novos desafios.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
+Olá, Pedro aqui, sempre em busca de novos desafios.![growth](https://user-images.githubusercontent.com/12634255/205192196-9487b2bb-b87c-4844-8755-98f2deb9a0d3.png)
 
-🌱 HTML | CSS | JavaScript | React
-
-🔭 Ferramentas: Git/GitHub | VSCode | NodeJs
+🌱 Mantendo sempre a mente aberta a novas ideias.
 
 ###### Entre em contato:
 
